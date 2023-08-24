@@ -1,5 +1,5 @@
 # Change these first
-owner: sergilao # Your GitHub organization or username, where this repository lives
+owner: flanksio # Your GitHub organization or username, where this repository lives
 repo: status_page_flanksapi # The name of this repository
 
 sites:

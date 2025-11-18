@@ -1,7 +1,7 @@
 url: https://api.flanks.io
-status: down
-code: 500
-responseTime: 88
-lastUpdated: 2025-11-18T15:41:22.298Z
+status: up
+code: 200
+responseTime: 848
+lastUpdated: 2025-11-18T15:51:23.145Z
 startTime: 2023-08-24T10:27:35.430Z
 generator: Upptime <https://github.com/upptime/upptime>

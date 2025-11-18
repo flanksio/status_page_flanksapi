@@ -4,17 +4,17 @@
     "url": "https://api.flanks.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.flanks.io.ico",
     "slug": "flanks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "91.57%",
     "uptimeWeek": "98.80%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
     "time": 546,
-    "timeDay": 490,
-    "timeWeek": 1041,
-    "timeMonth": 687,
-    "timeYear": 551,
+    "timeDay": 423,
+    "timeWeek": 961,
+    "timeMonth": 670,
+    "timeYear": 550,
     "dailyMinutesDown": {
       "2025-11-18": 121
     }

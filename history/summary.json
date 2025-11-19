@@ -6,17 +6,17 @@
     "slug": "flanks",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "90.88%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
-    "time": 546,
-    "timeDay": 484,
-    "timeWeek": 953,
-    "timeMonth": 675,
+    "time": 547,
+    "timeDay": 463,
+    "timeWeek": 947,
+    "timeMonth": 679,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2025-11-18": 131
+      "2025-11-18": 121
     }
   }
 ]
